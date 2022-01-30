@@ -312,13 +312,13 @@ Sidebar
 }
 .social-icons {
   display: grid;
-  margin-top: 3rem;
-  width: 20rem;
+  margin-top: 2rem;
+  width: 25rem;
   grid-template-columns: repeat(5, 1fr);
   justify-items: center;
 }
 .social-icon {
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: var(--clr-grey-1);
   -webkit-transition: var(--transition);
   transition: var(--transition);
